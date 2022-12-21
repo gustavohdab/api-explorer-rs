@@ -4,6 +4,24 @@
 
 </div>
 
+# server.js
+
+- server.js is the main file of the application. It is the entry point of the application. It is the file that starts the server.
+
+# Express.js
+
+- Express.js is a web application framework for Node.js. It is designed for building web applications and APIs. It has been called the de facto standard server framework for Node.js.
+
+# Routes
+
+- Routes are the endpoints of the application. They are the URLs that the user can access. They are the URLs that the user can send requests to.
+
+# Controllers
+
+- Controllers are the functions that handle the requests. They are the functions that handle the requests and send the responses.
+
+#
+
 # WHAT IS THE HTTP VERBS: GET, POST, PUT, DELETE, PATCH
 
 - GET: Get a resource
